@@ -9,6 +9,7 @@ namespace Teste {
         static void Main(string[] args) {
             Console.WriteLine("Olá Mundo!");
             Console.WriteLine("vamos que vamos");
+            Console.WriteLine("Como você está?");  
         }
     }
 }
