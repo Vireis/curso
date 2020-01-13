@@ -8,8 +8,9 @@ namespace Teste {
     class Program {
         static void Main(string[] args) {
             Console.WriteLine("Olá Mundo!");
-            Console.WriteLine("vamos que vamos");
-            Console.WriteLine("Como você está?");  
+            Console.WriteLine("Como você está?");
+            Console.WriteLine("Estamos bem aqui programando");
+
         }
     }
 }
